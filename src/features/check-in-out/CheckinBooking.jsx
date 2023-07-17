@@ -13,7 +13,7 @@ import Spinner from "../../ui/Spinner";
 import { useEffect, useState } from "react";
 import Checkbox from "../../ui/Checkbox";
 import { formatCurrency } from "../../utils/helpers";
-import useCheckIn from "./useCheckin";
+import useCheckIn from "./useCheckIn";
 import useSettings from "../settings/useSettings";
 
 const Box = styled.div`
